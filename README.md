@@ -50,6 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions, suggestions, or issues, please feel free to reach out to us at [mo.as.kb-2010@hotmail.com](mailto:mo.as.kb-2010@hotmail.com).
 
 Thank you for using the Coupon Management System!
